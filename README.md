@@ -1,4 +1,4 @@
-# MNIST Classification using Deep Learning
+# Handwritten Digit Classification using Deep Learning
 
 This project focuses on building and training a deep learning model to classify handwritten digits from the MNIST dataset. The MNIST dataset is a benchmark dataset in the field of machine learning and computer vision, containing 70,000 grayscale images of handwritten digits (0-9), each of size 28x28 pixels.
 
